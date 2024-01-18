@@ -12,6 +12,7 @@ tqdm = "^4.66.1"
 
 [tool.poetry.group.dev.dependencies]
 sphinx = "^7.2.6"
+sphinx-markdown-builder = "^0.6.6"
 
 [build-system]
 requires = ["poetry-core"]
