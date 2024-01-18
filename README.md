@@ -2,7 +2,7 @@
 
 This small library provides a decorator function that benchmarks functions.
 
-### dsbench.benchmark(\*, name: str, cumulative: bool = False, range_start: int = 0, range_end: int = None)
+### dsbench.benchmark(\*, name: str, cumulative: bool = False, range_start: int = 0, range_end: int = None) -> Callable
 
 Decorator function for benchmarking other functions.
 
