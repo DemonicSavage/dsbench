@@ -1,3 +1,4 @@
+<!--Small Python library that provides a decorator function which benchmarks functions.-->
 # DSBench
 
 This small library provides a decorator function that benchmarks functions.
